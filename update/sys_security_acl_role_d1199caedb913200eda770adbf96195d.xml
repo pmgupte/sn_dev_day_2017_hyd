@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-07 05:35:35</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d1199caedb913200eda770adbf96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_16255_marketing_equipment_request.x_16255_marketing.user</sys_name>
+        <sys_package display_value="Marketing Events" source="x_16255_marketing">5b85d862db113200eda770adbf96190f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events">5b85d862db113200eda770adbf96190f</sys_scope>
+        <sys_security_acl display_value="x_16255_marketing_equipment_request">95199caedb913200eda770adbf96195c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d1199caedb913200eda770adbf96195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-07 05:35:35</sys_updated_on>
+        <sys_user_role display_value="x_16255_marketing.user" name="x_16255_marketing.user">5f859c6edb913200eda770adbf961972</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

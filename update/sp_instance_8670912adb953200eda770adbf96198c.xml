@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">131019a6db153200eda770adbf96198a</sp_column>
+        <sp_widget display_value="Attendee Registration">1a5c89e6dbd13200eda770adbf961944</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-07 09:37:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8670912adb953200eda770adbf96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Marketing Events" source="x_16255_marketing">5b85d862db113200eda770adbf96190f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events">5b85d862db113200eda770adbf96190f</sys_scope>
+        <sys_update_name>sp_instance_8670912adb953200eda770adbf96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-07 09:37:33</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+</record_update>
