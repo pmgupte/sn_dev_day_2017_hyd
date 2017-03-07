@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
         <menu display_value="Marketing Events">17859c6edb913200eda770adbf961972</menu>
         <name>Marketing Events</name>
